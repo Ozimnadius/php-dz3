@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+form {
+  display: inline-block;
+}
+
+div {
+  margin-bottom: 20px;
+  border: 1px solid #b7b7b7;
+  padding: 15px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
